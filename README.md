@@ -7,7 +7,7 @@ This project analyzes sales data from FNP using Excel. The dashboard provides in
 ---
 
 ## 📂 Project Files
-
+- **Ferns and Petals Sales Analysis.pdf -> Problem Statement
 - **FNP sales analysis.xlsx** → Main Excel dashboard with pivot tables & charts  
 - **customers.csv** → Dataset containing customer details
 - **orders.csv** → Dataset containing order information
@@ -52,5 +52,6 @@ This project analyzes sales data from FNP using Excel. The dashboard provides in
 
 ## 📢 Author
 Created as part of a data analysis project on FNP sales.
+
 
 
