@@ -9,9 +9,9 @@ This project analyzes sales data from FNP using Excel. The dashboard provides in
 ## 📂 Project Files
 
 - **FNP sales analysis.xlsx** → Main Excel dashboard with pivot tables & charts  
-- **customers.xlsx** → Dataset containing customer details  
-- **orders.xlsx** → Dataset containing order information  
-- **products.xlsx** → Dataset containing product details  
+- **customers.csv** → Dataset containing customer details
+- **orders.csv** → Dataset containing order information
+- **products.csv** → Dataset containing product details
 - **Dashboard Screenshot.png** → Dashboard overview screenshot  
 - **Pivottable screenshot.png** → Pivot table screenshot  
 
@@ -52,4 +52,5 @@ This project analyzes sales data from FNP using Excel. The dashboard provides in
 
 ## 📢 Author
 Created as part of a data analysis project on FNP sales.
+
 
