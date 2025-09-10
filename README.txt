@@ -20,10 +20,10 @@ This project analyzes sales data from FNP using Excel. The dashboard provides in
 ## 📸 Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard Screenshot](Dashboard%20Screenshot.png)
+![Dashboard Screenshot]   https://github.com/goharunnisaa/FNP-Sales-Analysis/blob/main/Dashboard%20Screenshot.png
 
 ### Pivot Table Example
-![Pivot Table Screenshot](Pivottable%20screenshot.png)
+![Pivot Table Screenshot]   https://github.com/goharunnisaa/FNP-Sales-Analysis/blob/main/Pivottable%20screenshot.png
 
 ---
 
@@ -52,3 +52,4 @@ This project analyzes sales data from FNP using Excel. The dashboard provides in
 
 ## 📢 Author
 Created as part of a data analysis project on FNP sales.
+
